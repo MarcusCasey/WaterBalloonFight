@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WaterBalloon.data.unityweb",
+"asmCodeUrl": "WaterBalloon.asm.code.unityweb",
+"asmMemoryUrl": "WaterBalloon.asm.memory.unityweb",
+"asmFrameworkUrl": "WaterBalloon.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
